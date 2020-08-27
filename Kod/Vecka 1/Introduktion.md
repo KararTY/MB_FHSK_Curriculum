@@ -84,3 +84,8 @@ Förstå vad en webbsidas beståndsdelar är.
 * **Hjälpa varandra.**
 
 Och sist men inte minst, **lära oss något nytt**_-igt?_
+
+---
+
+**Karar Al-Remahy**
+<br><img src="src/Äpple.png" height="32"> Marieborg | Tema Internationellt - Utsikten
