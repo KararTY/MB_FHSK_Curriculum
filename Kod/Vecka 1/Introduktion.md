@@ -7,7 +7,7 @@ Introduktion till ämnet.
 * Hacka sig in på ett Facebook konto.
 * Visa dig hur man använder kopiatorn.
 * Bli nästa Jeff Bezos.
-----
+---
 * Avancerad programmering.
 * Teoretiska bakgrunder.
 * Historia & bakgrundsämnen.
@@ -29,6 +29,7 @@ Introduktion till ämnet.
 
 </html>
 ```
+
 * **CSS**
 ```css
 /* `html` är dokumentets "rot/grund" element. */
@@ -43,6 +44,7 @@ html {
   font-size: 2rem;
 }
 ```
+
 * **JavaScript**
 ```js
 // Hitta alla element med ` class="paragraph" `.
@@ -67,7 +69,7 @@ Förstå vad en webbsidas beståndsdelar är.
 
 ## Vad vi ska göra
 
-* Skapa en hemsida med hjälp av CSS, HTML & JavaScript.
+* Skapa en hemsida med hjälp av HTML, CSS & JavaScript.
 * Om vi hinner, kanske påbörja ett litet spelprojekt?
 
 ## Varför gör vi X på Y sätt
@@ -80,7 +82,7 @@ Förstå vad en webbsidas beståndsdelar är.
 
 * Vara på plats.
 * **Fråga om hjälp.**
-* Be om att förtydliga saker man inte förstår.
+* *Be om att förtydliga saker man inte förstår.*
 * **Hjälpa varandra.**
 
 Och sist men inte minst, **lära oss något nytt**_-igt?_
@@ -88,4 +90,4 @@ Och sist men inte minst, **lära oss något nytt**_-igt?_
 ---
 
 **Karar Al-Remahy**
-<br><img src="src/Äpple.png" height="32"> Marieborg | Tema Internationellt - Utsikten
+<br><img src="src/public/Äpple.png" height="16"> Marieborg | Tema Internationellt - Utsikten
