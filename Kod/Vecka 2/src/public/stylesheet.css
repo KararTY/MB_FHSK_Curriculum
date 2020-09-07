@@ -1,0 +1,67 @@
+@font-face {
+  font-family: "Berkshire Swash";
+  font-weight: 400;
+  src: url(BerkshireSwash-Regular.ttf);
+}
+@font-face {
+  font-family: "Fira Sans";
+  font-weight: 400;
+  src: url(FiraSans-Regular.ttf);
+}
+
+body {
+  font-family: "Fira Sans", "Segoe UI", Oxygen, Ubuntu, Cantarell, "Droid Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.is-absolute {
+  position: absolute;
+}
+
+.stylized-font {
+  font-family: "Berkshire Swash";
+}
+
+.mosaik-bild {
+  background-image: url(mosaik-banner.png);
+}
+
+.is-dark-transparent {
+  background-color: rgba(0, 0, 0, 0.7) !important;
+}
+
+.is-dark-transparent .navbar-item:hover {
+  color: #aa1e20 !important;
+  background-color: rgba(255, 255, 255, 0.9) !important;
+}
+
+.is-dark-transparent .navbar-item {
+  color: #fff;
+}
+
+.is-dark-transparent .navbar-menu {
+  background-color: unset !important;
+}
+
+.has-background-orange {
+  background-color: #ca5d26;
+}
+
+.has-background-darkred {
+  background-color: #801f20;
+}
+
+.has-background-lightred {
+  background-color: #aa1e20;
+}
+
+.has-background-green {
+  background-color: #94ae45;
+}
+
+a {
+  color: #94ae45;
+}
+
+a:hover {
+  color: #ca5d26;
+}

@@ -1,8 +1,6 @@
 # MB_FHSK_Curriculum
 Curriculum
 
-## Veckor
-
 ## En webbsida
 
 Skapa din egen kopia av M.B:s hemsida.
