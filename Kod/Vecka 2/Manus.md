@@ -17,7 +17,7 @@ Vad är HTML?
 </html>
 ```
 
-HTML, eller som det står i läroböcker "HyperText Markup Language", är vad definerar innebörden. Ska förklara vad det betyder om ett tag. Och strukturen av webbinnehåll, alltså innehållet av en webbsida.
+HTML, eller som det står i läroböcker "HyperText Markup Language", är vad definerar innebörden och strukturen av webbinnehåll, det vill säga innehållet av en webbsida.
 
 Och ordet "HyperText", ja vad kan det betyda? Någon som vågar gissa?
 Okej, det är nog bättre att jag förklarar det ordet med ett exempel.
