@@ -60,4 +60,6 @@ Okej, nu har vi alltså MDNs sida om `text-decoration` öppen. Vi har värden h�
 
 Jag förväntar mig att ni använder MDN när ni vill lära er hur något fungerar, både på egen hand och med hjälp från mig och dem andra klasskamraterna.
 
+Och, så har jag hittat, faktiskt igår, en otroligt bra CSS referens webbsida. Och en ytterligare för HTML. Använd den tillsammans med MDN så har ni verktygslådan för att bygga snygga HTML dokument!
+
 Nåväl. Ni har era svensk-danska krig att bearbeta nu! Lägg till mera CSS regler och fråga om hjälp.
